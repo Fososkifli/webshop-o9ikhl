@@ -1,4 +1,3 @@
-import React from "react"
 import { Button } from "./ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "./ui/card"
 import type { Product } from "@/data/products"
